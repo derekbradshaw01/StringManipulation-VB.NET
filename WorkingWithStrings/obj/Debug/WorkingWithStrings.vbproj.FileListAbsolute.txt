@@ -1,0 +1,12 @@
+C:\Users\Derek\source\repos\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.exe.config
+C:\Users\Derek\source\repos\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.exe
+C:\Users\Derek\source\repos\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.pdb
+C:\Users\Derek\source\repos\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.xml
+C:\Users\Derek\source\repos\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.vbprojAssemblyReference.cache
+C:\Users\Derek\source\repos\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.Form1.resources
+C:\Users\Derek\source\repos\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.Resources.resources
+C:\Users\Derek\source\repos\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.vbproj.GenerateResource.cache
+C:\Users\Derek\source\repos\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.vbproj.CoreCompileInputs.cache
+C:\Users\Derek\source\repos\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.exe
+C:\Users\Derek\source\repos\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.xml
+C:\Users\Derek\source\repos\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.pdb
